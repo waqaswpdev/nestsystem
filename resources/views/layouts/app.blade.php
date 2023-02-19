@@ -267,7 +267,7 @@
                             <div class="user-profile dropdown m-t-20">
                                  
                                 <div class="user-content hide-menu m-t-10">
-                                    <h5 class="m-b-10 user-name font-medium">Steave Jobs</h5>
+                                    <h5 class="m-b-10 user-name font-medium">Admin</h5>
                                       
                                 </div>
                             </div>
